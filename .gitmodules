@@ -1,0 +1,9 @@
+[submodule "tknz-site"]
+	path = tknz-site
+	url = git@github.com:tknzdev/tknz-site.git
+[submodule "tknz-extension"]
+	path = tknz-extension
+	url = git@github.com:tknzdev/tknz-extension
+[submodule "tknz-launchpad"]
+	path = tknz-launchpad
+	url = git@github.com:tknzdev/tknz-launchpad
